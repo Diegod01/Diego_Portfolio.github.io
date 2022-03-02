@@ -1,5 +1,5 @@
 # About Me:
-   ## Hi wave, my name is Diego
+   ## Hi :Wave:, my name is Diego
    ## A statistics student  mortar_board and Data Scientist</h3>
 
 # I consider this four proyects the best i did trophy</h3>
