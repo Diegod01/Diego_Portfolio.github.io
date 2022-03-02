@@ -29,8 +29,7 @@
 
 ## seedling I are currently learning TensorFlow, Keras, SAP
 
-URL:  https://diegod01.github.io/Diego_Portfolio/
- 
+
 
 ⠀⠀⠀
 ⠀⠀⠀
