@@ -1,8 +1,8 @@
 # Welcome to my portfolio
 
 # About Me:
-   ## Hi 👋 my name is Diego
-   ## A statistics student 🧑‍🎓 and Data Scientist</h3>
+## Hi 👋 my name is Diego
+## A statistics student 🧑‍🎓 and Data Scientist</h3>
 
 # I consider this four proyects the best i did 🏆</h3>
 ### The one: [Sales (demand?) prediction with Excel forecasting](https://github.com/Diegod01/Diego_Portfolio/blob/main/Proyect%201/Sales_prediction.md)
@@ -13,8 +13,6 @@
 
 ## To access to the other projects 🧑‍💻 go to this link:</h1>
 ## [Other proyects](https://github.com/Diegod01/Portafolio-2.0)</h3>
-
-You can use the [editor on GitHub](https://github.com/Diegod01/Diego_Portfolio.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 
 # How contact me:🤝
@@ -31,35 +29,3 @@ You can use the [editor on GitHub](https://github.com/Diegod01/Diego_Portfolio.g
 
 ## 🌱 I are currently learning TensorFlow, Keras, SAP
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Diegod01/Diego_Portfolio.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
