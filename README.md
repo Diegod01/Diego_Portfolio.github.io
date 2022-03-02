@@ -1,25 +1,25 @@
 # About Me:
-   ## Hi :Wave:, my name is Diego
-   ## A statistics student  mortar_board and Data Scientist</h3>
+   ## Hi 👋 my name is Diego
+   ## A statistics student 🧑‍🎓 and Data Scientist</h3>
 
-# I consider this four proyects the best i did trophy</h3>
+# I consider this four proyects the best i did 🏆</h3>
 ### The one: [Sales (demand?) prediction with Excel forecasting](https://github.com/Diegod01/Diego_Portfolio/blob/main/Proyect%201/Sales_prediction.md)
 ### The second: [Fraud count](https://github.com/Diegod01/Diego_Portfolio/blob/main/Proyect%202/Fraud%20count)
 ### The third: [Credit risk](https://github.com/Diegod01/Diego_Portfolio/blob/main/Proyect%203/Credit%20risk)
 ### The fourth: [Invest recomendation system](https://github.com/Diegod01/Diego_Portfolio/blob/main/Proyect%204/Invest%20Recomendation%20system)
 
-## To access to the other projects man_technologist go to this link:</h1>
+## To access to the other projects 🧑‍💻 go to this link:</h1>
 ## [Other proyects](https://github.com/Diegod01/Portafolio-2.0)</h3>
 
 ⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀
 
-# How contact me:
+# How contact me:🤝
 
- ## My Gmail incoming_envelope diegodarosa2003@gmail.com
- ## page_facing_up Know about my experiences in my LinkedIn woman_technologist https://www.linkedin.com/in/diego-agust%C3%ADn-da-rosa-a49641222
- ## My Phone telephone_receiver 093663701</h3>
+ ## ✉️ My Gmail incoming_envelope diegodarosa2003@gmail.com
+ ## Know about my experiences in my LinkedIn 🧑‍💼 https://www.linkedin.com/in/diego-agust%C3%ADn-da-rosa-a49641222
+ ## My Phone 📞 093663701</h3>
  
  
  # I know this programming languages and softwares:
@@ -27,7 +27,7 @@
 
 ### Python, Pandas, Sklearn, R, SQL, Grafana, OpenCV
 
-## seedling I are currently learning TensorFlow, Keras, SAP
+## 🌱 I are currently learning TensorFlow, Keras, SAP
 
 
 
