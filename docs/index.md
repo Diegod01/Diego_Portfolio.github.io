@@ -17,9 +17,9 @@
 
 # How contact me:🤝
 
- ## ✉️ My Gmail incoming_envelope diegodarosa2003@gmail.com
- ## Know about my experiences in my LinkedIn 🧑‍💼 https://www.linkedin.com/in/diego-agust%C3%ADn-da-rosa-a49641222
- ## My Phone 📞 093663701
+## ✉️ My Gmail incoming_envelope diegodarosa2003@gmail.com
+## Know about my experiences in my LinkedIn 🧑‍💼 https://www.linkedin.com/in/diego-agust%C3%ADn-da-rosa-a49641222
+## My Phone 📞 093663701
  
  
  # I know this programming languages and softwares:
@@ -27,5 +27,6 @@
 
 ### Python, Pandas, Sklearn, R, SQL, Grafana, OpenCV
 
-## 🌱 I are currently learning TensorFlow, Keras, SAP
+# 🌱 I are currently learning TensorFlow, Keras, SAP
 
+A
