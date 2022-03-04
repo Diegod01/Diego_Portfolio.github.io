@@ -3,7 +3,7 @@
    ## A statistics student 🧑‍🎓 and Data Scientist
 
 # I consider this four proyects the best i did 🏆
-### The one: [Sales (demand?) prediction with Excel forecasting](https://github.com/Diegod01/Diego_Portfolio/blob/main/Proyect%201/Sales_prediction.md)
+### The one: [Demand prediction with Excel forecasting](https://github.com/Diegod01/Diego_Portfolio/blob/main/Proyect%201/Sales_prediction.md)
 ### The second: [Fraud count](https://github.com/Diegod01/Diego_Portfolio/blob/main/Proyect%202/Fraud%20count)
 ### The third: [Credit risk](https://github.com/Diegod01/Diego_Portfolio/blob/main/Proyect%203/Credit%20risk)
 ### The fourth: [Invest recomendation system](https://github.com/Diegod01/Diego_Portfolio/blob/main/Proyect%204/Invest%20Recomendation%20system)
@@ -31,6 +31,6 @@
 
 
 
-⠀⠀⠀
+⠀⠀⠀a
 ⠀⠀⠀
 
