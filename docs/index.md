@@ -15,7 +15,7 @@
 
 # I consider this four proyects the best i did 🏆
 ### The one: [Demand prediction with Excel forecasting](https://github.com/Diegod01/My-Blog/blob/main/Portfolio_proyects/Proyect%201.md)
-### The second: [Credit risk]https://github.com/Diegod01/My-Blog/blob/main/Portfolio_proyects/Proyect)
+### The second: [Credit risk](https://github.com/Diegod01/My-Blog/blob/main/Portfolio_proyects/Proyect)
 ### The third: [Bank chatbot](https://github.com/Diegod01/My-Blog/blob/main/Portfolio_proyects/Proyect%203.md)
 ### The fourth: [Invest recomendation system](https://github.com/Diegod01/My-Blog/blob/main/Portfolio_proyects/Proyect%204.md)
 
