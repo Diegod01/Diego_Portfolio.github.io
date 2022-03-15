@@ -1,6 +1,6 @@
 # About Me:
    ## Hi 👋 my name is Diego
-   ## A statistics student 🧑‍🎓 and Data Scientist
+   ## A statistics student 🧑‍🎓 and Data Scientist, i are interested in the financial applications of data science
 
 # I consider this four proyects the best i did 🏆
 ### The one: [Demand prediction with Excel forecasting](https://github.com/Diegod01/Diego_Portfolio/blob/main/Proyect%201/Sales_prediction.md)
