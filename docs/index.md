@@ -5,8 +5,16 @@
 # About Me:
 ## Hi 👋 my name is Diego
 ## A statistics student 🧑‍🎓 and Data Scientist
+## I are interested  in apply Data Science in Finances 🏛️
 
-⠀⠀⠀⠀⠀⠀⠀
+
+
+# How contact me:🤝
+
+## ✉️ My Gmail incoming_envelope diegodarosa2003@gmail.com
+## Know about my experiences in my LinkedIn 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/diego-agust%C3%ADn-da-rosa-a49641222)
+## My Phone 📞 093663701 or 094447021
+ 
 
 ⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀
@@ -35,12 +43,6 @@
 ⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀
-
-# How contact me:🤝
-
-## ✉️ My Gmail incoming_envelope diegodarosa2003@gmail.com
-## Know about my experiences in my LinkedIn 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/diego-agust%C3%ADn-da-rosa-a49641222)
-## My Phone 📞 093663701 or 094447021
  
  ⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀
