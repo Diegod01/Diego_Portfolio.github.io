@@ -21,7 +21,7 @@
 
 
 # I consider this four proyects the best i did 🏆
-### 🗓️ The one: [Demand prediction with Excel forecasting](https://github.com/Diegod01/Proyects_explanation/blob/main/Portfolio_proyects/Demand%20prediction.md)
+### 🗓️ The one: [Bank profit prediction](https://github.com/Diegod01/Proyects_explanation/blob/main/Portfolio_proyects/Bank_profit_prediction.ipynb)
 ### 💳 The second: [Credit risk](https://github.com/Diegod01/Proyects_explanation/blob/main/Portfolio_proyects/Risk_analysis_with_Tree-1.ipynb)
 ### 🤖 The third: [Bank chatbot](https://github.com/Diegod01/Proyects_explanation/blob/main/Portfolio_proyects/Bank%20chatbot.ipynb)
 ### 📈 The fourth: [Invest recomendation system](https://github.com/Diegod01/Proyects_explanation/blob/main/Portfolio_proyects/Invest_recommendation_systemipynb.ipynb)
