@@ -46,7 +46,7 @@
 ⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀
 # 🧠 I know this programming languages and softwares:
-### Python, Pandas, Sklearn, R, SQL, Grafana, OpenCV
+### Python, Pandas, Sklearn, R, SQL, PowerBI
 ⠀⠀⠀⠀⠀⠀⠀
 
 
