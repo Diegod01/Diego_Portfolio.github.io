@@ -12,9 +12,10 @@
 # How contact me:🤝
 
 ## ✉️ My Gmail incoming_envelope diegodarosa2003@gmail.com
-## Know about my experiences in my LinkedIn 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/diego-agust%C3%ADn-da-rosa-a49641222)
 ## My Phone 📞 093663701 or 094447021
- 
+## Know about my experiences in my LinkedIn 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/diego-agust%C3%ADn-da-rosa-a49641222)
+## [🎥 My Youtube channel where i make data Science tutorials](https://youtube.com/channel/UC3Zf05Ytn_GZvMzoIMF3hCw)
+
 
 ⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀
